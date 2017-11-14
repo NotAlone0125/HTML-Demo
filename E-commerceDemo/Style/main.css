@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*顶部三部分公用的宽度*/
+.comWidth{width: 1000px;margin-left: auto;margin-right: auto;}
+
+/*topBar*/
+.leftArea{float: left;}
+.rightArea{float: right;}
+.topBar{height: 31px;background-color: #F7F7F7;line-height: 31px;}
+.collection{background: url("../Images/collection.jpg") left center no-repeat;
+    padding-left: 19px;font-weight: bold;}
+.topBar a:hover{color: red;}
+
+/*logoBar*/
+.logoBar{height: 85px;background-color: #1D7AD9;}
+.logo{padding-left: 41px;padding-top: 13px;}
+
+/*searchBox*/
+.searchBox{width: 430px;padding-left: 150px;padding-top: 23px;}
+.search_text{width: 350px;height: 35px;padding: 0 5px;}
+.search_btn{width: 70px;height: 35px;font-size: 14px;
+    font-family: "Microsoft YaHei","微软雅黑";background-color: #FF8C00;color: #FFF;}
+
+/*shopCar*/
+.shopCar{width: 145px;height:35px;background-color:#FF8C00;color: #FFF;
+    font: 14px/35px "Microsoft YaHei","微软雅黑";margin-top: 23px;margin-right: 59px;}
+.shopText{width:90px;height:100%;background: url("../Images/shopCar.jpg") 10px center no-repeat;
+    text-indent: 40px;}/*text-indent缩进*/
+.shopNum{width: 27px;height: 35px;border-left: #FF9C01 solid 1px;padding-right:27px;
+    text-align: right;background: url("../Images/arrow.jpg") 33px center no-repeat;}

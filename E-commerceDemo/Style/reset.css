@@ -1,0 +1,22 @@
+@charset "utf-8";
+/*一些初始的样式设置*/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{
+    margin: 0;padding: 0;}
+body{ font-size: 12px; }
+img{ border: none; }
+li{ list-style: none; }/*清除列表前的圆点*/
+input,select,textarea {outline: none; border: none;}/*outline（轮廓）*/
+textarea{ resize: none; }/*用户无法调整元素的尺寸。*/
+a{ text-decoration: none;color: #656565; }/*取消下划线*/
+
+/*清除浮动*/
+/*content 属性与 :before 及 :after 伪元素配合使用，来插入生成内容。*/
+.clearfix:after{content: "";display: block;clear: both;}
+.clearfix{zoom: 1;}
+/* zoom这个属性是ie专有属性，除了设置或者检索对象的缩放比例之外，它还有可以触发ie的
+haslayout属性，清除浮动，清除margin重叠等作用。 不过值得注意的一点就是火狐浏览器不
+支持zoom属性，但是在webkit内核浏览器中zoom这个属性也是可以被支持的。*/
+
+/*左右浮动*/
+.fl{float: left;}
+.fr{float: right;}
