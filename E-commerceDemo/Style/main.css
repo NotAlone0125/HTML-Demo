@@ -73,3 +73,17 @@
     display: inline-block;padding: 0 14px 0 8px;margin-right: 10px;}
 .shopList_links span{width:11px;height: 7px;background: url("../Images/rightArrow.jpg") left center no-repeat;
     margin-left: 7px;display: inline-block;}
+
+/*广告滚动栏*/
+.banner_bar {background-color: red;width: 810px;height: 345px;float: right;position: relative;overflow: hidden;}
+.image_box {width: 1620px;height: 345px;position: absolute;left: -810px;top: 0;}
+.image_box li{float: left;}
+.image_box img{width: 810px;height: 345px;display: block;}
+.banner_num {position: absolute;bottom: 15px;left: 0;width: 100%;text-align: center;}
+.banner_num a{background-color: #FFF;width: 20px;height: 5px;display: inline-block;margin: 0 3px;}
+.banner_num a.active{background-color: #FF7700;}
+
+
+
+
+
