@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="183" column="37" lean-forward="false" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="37" />
+            <state relative-caret-position="210">
+              <caret line="232" column="38" lean-forward="true" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#dl#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -32,11 +32,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="titleIcon_01.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Images/titleIcon_01.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopImg.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Images/shopImg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="76" column="2" lean-forward="true" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="7" />
+            <state relative-caret-position="73">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,8 +81,8 @@
       <list>
         <option value="$PROJECT_DIR$/Style/Reset.css" />
         <option value="$PROJECT_DIR$/Style/reset.css" />
-        <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/Style/main.css" />
+        <option value="$PROJECT_DIR$/Index.html" />
       </list>
     </option>
   </component>
@@ -79,10 +93,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
-    <option name="y" value="23" />
-    <option name="width" value="1207" />
-    <option name="height" value="829" />
+    <option name="x" value="197" />
+    <option name="y" value="34" />
+    <option name="width" value="1190" />
+    <option name="height" value="796" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -157,18 +171,18 @@
       <workItem from="1510538703755" duration="10000" />
       <workItem from="1510539085920" duration="5200000" />
       <workItem from="1510623786109" duration="3074000" />
-      <workItem from="1510642309118" duration="24674000" />
+      <workItem from="1510642309118" duration="37285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32958000" />
+    <option name="totallyTimeSpent" value="45569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="217" y="23" width="1207" height="829" extended-state="0" />
+    <frame x="197" y="34" width="1190" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14671163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17023097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -308,6 +322,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Images/shopImg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Images/titleIcon_01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Style/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -316,10 +340,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="183" column="37" lean-forward="false" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="37" />
+        <state relative-caret-position="210">
+          <caret line="232" column="38" lean-forward="true" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#dl#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -329,14 +361,6 @@
             <element signature="n#dl#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#dl#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Style/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="76" column="2" lean-forward="true" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
