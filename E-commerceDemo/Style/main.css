@@ -76,7 +76,7 @@
 
 /*广告滚动栏*/
 .banner{margin-bottom: 15px;}
-.banner_bar {background-color: red;float: right;position: relative;overflow: hidden;}
+.banner_bar {float: right;position: relative;overflow: hidden;}
 .image_box {position: absolute;left: 0px;top: 0;}
 .image_box li{float: left;}
 .image_box img{display: block;}
@@ -126,3 +126,31 @@
 .footer_text a:hover{color: #FF5300}
 .footer_logo{margin-top: 30px;}
 .footer_logo a{margin-right: 25px;}
+
+/*-------------------------------------产品分类------------------------------------------*/
+/*分类导航*/
+.products .leftArea{width: 185px;background-color: #F3F3F3;border: #D7D7D7 solid 1px;}
+.products .rightArea{width: 810px;}
+.products{margin-top: 15px;}
+.products_title{line-height: 34px;border-bottom: #D7D7D7 solid 1px;text-align: center;height: 34px;}
+.products_cont{padding: 5px 20px;border-bottom: #D7D7D7 dotted 1px;margin-bottom:-1px;}
+.products_cont h3{line-height: 30px;font-size: 12px;height: 30px;}
+.products_cont li{width: 50%;float: left;line-height: 26px;}
+
+/*分类列表*/
+.products .banner_bar{float: none;}
+.products_name{height: 34px;line-height: 34px;margin-top: 7px;text-indent: 9px;
+    border-bottom: #CCCCCC solid 2px;}
+.products_name h3{border-bottom: #0067BD solid 2px;width: 180px;}
+
+
+.products_item{float: left;width: 25%;height: 265px;margin-bottom:10px;}
+.product_content{padding: 0 15px;}
+.product_img img{height: 170px;}
+.product_introduction{line-height: 20px;}
+.products_item a{color: #000000;}
+.products_item a:hover{text-decoration: underline;}
+.product_price{margin-top: 10px;font-weight:bold;color: #EB005A;}
+.product_comment{margin-top: 5px;}
+.stars{width:13px; height:12px; overflow:hidden;background:url("../Images/xing.gif") left center no-repeat;
+    display: inline-block;}
